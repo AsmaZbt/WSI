@@ -1,1 +1,1 @@
-# WSI
+# Word sense induction
